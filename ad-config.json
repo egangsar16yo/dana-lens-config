@@ -1,5 +1,5 @@
 {
-  "adsEnabled": false,
+  "adsEnabled": true,
   "bannerEnabled": true,
   "interstitialEnabled": true,
   "interstitialInterval": 5,
