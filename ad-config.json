@@ -1,9 +1,18 @@
 {
+  "configVersion": 1,
+
   "adsEnabled": true,
+
   "bannerEnabled": true,
   "interstitialEnabled": true,
-  "interstitialInterval": 5,
   "rewardedEnabled": true,
   "appOpenEnabled": false,
-  "appOpenCooldownMinutes": 30
+
+  "interstitialInterval": 5,
+  "appOpenCooldownMinutes": 30,
+
+  "bannerAdUnitIdAndroid": "",
+  "interstitialAdUnitIdAndroid": "",
+  "rewardedAdUnitIdAndroid": "",
+  "appOpenAdUnitIdAndroid": ""
 }
