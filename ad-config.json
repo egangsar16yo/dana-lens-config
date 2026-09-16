@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
 
-  "adsEnabled": false,
+  "adsEnabled": true,
 
   "bannerEnabled": true,
   "interstitialEnabled": true,
